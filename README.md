@@ -12,4 +12,4 @@ Dataset sur Kaggle : https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-
 
 # License
 
-©2024
+©2024.
